@@ -1,6 +1,6 @@
-[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FQ4Z2F-blue)](https://doi.org/10.17605/OSF.IO/Q4Z2F)
-![LICENSE](https://img.shields.io/badge/LICENSE-MIT-orange)
-[![CITATION](https://img.shields.io/badge/CITATION-Fox%2C%20R.%20(2021).%20BF%20%26%20cmP%20Calculator%3A%20A%20Web%20App%20for%20Calculating%20Bayes%20Factors%20and%20Approximate%20Correct%20Model%20Probability%20Values%20%5BComputer%20software%5D.%20https%3A%2F%2Fdoi.org%2F10.17605%2FOSF.IO%2FQ4Z2F-blueviolet)](https://doi.org/10.17605/OSF.IO/Q4Z2F)
+[<img src="https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FQ4Z2F-blue" />](https://doi.org/10.17605/OSF.IO/Q4Z2F)
+<img src="https://img.shields.io/badge/LICENSE-MIT-orange" />
+[<img src="https://img.shields.io/badge/CITATION-Fox%2C%20R.%20(2021).%20BF%20%26%20cmP%20Calculator%3A%20A%20Web%20App%20for%20Calculating%20Bayes%20Factors%20and%20Approximate%20Correct%20Model%20Probability%20Values%20%5BComputer%20software%5D.%20https%3A%2F%2Fdoi.org%2F10.17605%2FOSF.IO%2FQ4Z2F-blueviolet" height="20" />](https://doi.org/10.17605/OSF.IO/Q4Z2F)
 
 # BF & cmP Calculator 
 ### A Web App for Calculating Bayes Factors and Approximate Correct Model Probability Values
