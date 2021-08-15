@@ -21,7 +21,7 @@ if (!require('shiny')) install.packages('shiny'); library('shiny')
 if (!require('shinythemes')) install.packages('shinythemes')
 if (!require('rmarkdown')) install.packages('rmarkdown')
 
-runGitHub(rep = "BF & cmP Calculator", username = "Robert-Fox1", ref = "main")
+runGitHub(rep = "BF_cmP_Calculator", username = "Robert-Fox1", ref = "main")
 ```
 <br> 
 
